@@ -1,6 +1,6 @@
 def test_load():
   return 'loaded'
-compute_probs
+  compute_probs
 cond_prob
 cond_probs_product
 prior_prob
